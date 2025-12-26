@@ -57,7 +57,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 
 ## OUTPUT
-![WhatsApp Image 2025-12-26 at 11 22 12 AM](https://github.com/user-attachments/assets/51ec4ea3-f4fa-4903-bdc9-14bdfb36fd97)
+<img width="1312" height="602" alt="image" src="https://github.com/user-attachments/assets/4c71f126-d2e8-43ee-ae7b-95338cabc9d5" />
 
 
 
